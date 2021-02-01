@@ -1,6 +1,16 @@
 Pure Change History
 ===================
 
+2.0.5 (2021-01-20)
+------------------
+
+* fix #824: cursor style for disabled menu link
+
+2.0.4 (2021-01-19)
+------------------
+
+* chore: update license path
+
 2.0.3 (2020-05-11)
 ------------------
 
